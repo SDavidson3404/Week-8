@@ -1,0 +1,12 @@
+Score 1: 90
+Grade 1: A
+Score 2: 95
+Grade 2: A
+Score 3: 40
+Grade 3: F
+Score 4: 68
+Grade 4: D
+Score 5: 75
+Grade 5: C
+Average: 73.6
+Average Grade: C

@@ -1,0 +1,3 @@
+Name: Sydney,
+Age: 21
+city = Edmond
